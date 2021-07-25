@@ -19,5 +19,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
 
 
-![alt rank](https://www.codewars.com/users/Rus-Abd/badges/large)
+<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Rus-Abd&card&colormode=dark_mode" />
 
